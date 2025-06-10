@@ -122,7 +122,7 @@ if __name__ == "__main__":
     create_text_object(450, 148, 8, "WASD, q = esc, z = enter, e = use, space = fire"),
     create_text_object(450, 136, 8, "shift+WASD = sprint, m = map, 1-7 = weapons"),
     create_text_object(320, 34, 8, "Upload custom WAD files at: https://doompdf.pages.dev/"),
-    create_text_object(320, 22, 8, "Source code: https://github.com/ading2210/doompdf"),
+    create_text_object(320, 22, 8, "Source code: https://github.com/FelipeMeireles/code_doom_run_pdf"),
     create_text_object(320, 10, 8, "Note: This PDF only works in Chromium-based browsers.")
   ])
 
